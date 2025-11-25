@@ -3,7 +3,7 @@
 *A curated collection of concise, high-quality tutorials, learning snippets, and practical guides.*
 
 <p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="Repository Banner" width="100%" />
+  <img src="banner3.png" alt="Repository Banner" width="100%" />
 </p>
 
 <p align="center">
